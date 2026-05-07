@@ -3,7 +3,7 @@
 > **Logics for AI** | Final Project | Daniele Mariani
 ---
 > Coinqui aims to be an app that matches people looking for a room with people offering one, using a logic-based compatibility engine instead of simple filters, with built-in fairness and explainability. University Project for the Exam Logics for AI @ UniMi
- 
+
 ---
  
 ## Table of Contents
