@@ -392,7 +392,7 @@ After generating atoms, `QualityMonitor.evaluateProfile()` is called to compute 
  
 This project was developed with the assistance of **Claude Code Pro** (Anthropic), using the **claude-opus-4-7** model. AI assistance was used across the following areas:
  
-- **Technical implementation**: support with TypeScript architecture, component structure, and logic engine design
+- **Technical implementation**: support with TypeScript architecture, component structure, logic engine design and also on writing this README.md file.
 - **Research**: identification and cross-referencing of academic sources cited in the fairness and data quality sections
 - **Organisation**: structuring the project documentation and ensuring coherence between theoretical references and their corresponding implementations
 - **Correctness of information**: verifying that formal definitions (Correction Distance, Informational Confidence, Wasserstein Distance, BSim) were accurately translated from the source literature into code and documentation
